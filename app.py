@@ -18,7 +18,7 @@ from streamlit_js_eval import streamlit_js_eval
 FILE_PATH = "StudyPlanner.xlsx"
 
 # Set the page layout to wide    
-st.set_page_config(page_title="AI-Powered Study Planner", layout="wide")
+st.set_page_config(page_title="StudyBudd", layout="wide")
 
 # 📌 Function to call Gemini API
 def load_gemini_api_key():
