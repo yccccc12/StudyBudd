@@ -64,7 +64,7 @@ Before running the project, ensure you have the necessary environment variables 
 Clone the project repository from GitHub:
 
 ```bash
-git clone https://github.com/yccccc12/Kita_Hack.git
+git clone https://github.com/yccccc12/StudyBudd.git
 ```
 
 ### 2. **Install Required Packages**
