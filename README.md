@@ -1,5 +1,5 @@
 # Project: StudyBudd
-## Team Name: Exception Unhandled
+## Team Name: Error 403
 ## Members:
 - GOH YI CHENG
 - KOH SIN YEE
